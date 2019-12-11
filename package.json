@@ -12,7 +12,7 @@
   "dependencies": {
     "jquery": "^3.3.1",
     "js-cookie": "^2.2.0",
-    "material-components-web": "^0.40.1"
+    "material-components-web": "^4.0.0"
   },
   "devDependencies": {
     "autoprefixer": "^9.1.5",
